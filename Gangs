@@ -33,8 +33,6 @@ local Gangs = {
         RankMinimo = 1,
 
         Itens = {
-            Soco = 1,
-            Chute = 1,
             Kokusen = 2,
         },
 
