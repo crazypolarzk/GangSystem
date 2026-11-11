@@ -29,7 +29,7 @@ local Gangs = {
     },
 
     [33817647] = {
-        Nome = "Hashiras",
+        Nome = "Os Hashiras",
         RankMinimo = 1,
 
         Itens = {
