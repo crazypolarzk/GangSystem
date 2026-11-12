@@ -52,6 +52,32 @@ local Gangs = {
                 Borda = {35, 35, 35},
             },
 
+local Gangs = {
+    [299465372] = {
+        Nome = "Goats",
+        RankMinimo = 1,
+
+        Itens = {
+            Kokusen = 1,
+        },
+
+        Cor = {
+            Nome = {
+                Letra = {249, 247, 252},
+                Borda = {35, 35, 35},
+            },
+
+            Patente = {
+                Letra = {249, 247, 252},
+                Borda = {35, 35, 35},
+            },
+
+            Team = {
+                Letra = {249, 247, 252},
+                Borda = {35, 35, 35},
+            },
+
+
     [33817647] = {
         Nome = "Os Hashiras",
         RankMinimo = 1,
