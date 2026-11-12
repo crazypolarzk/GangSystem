@@ -27,6 +27,33 @@ local Gangs = {
         },
     },
 
+local Gangs = {
+    [1083945842] = {
+        Nome = "Berserk",
+        RankMinimo = 1,
+
+        Itens = {
+            Soco = 1,
+        },
+
+        Cor = {
+            Nome = {
+                Letra = {255, 255, 255},
+                Borda = {0, 0, 0},
+            },
+
+            Patente = {
+                Letra = {255, 255, 255},
+                Borda = {0, 0, 0},
+            },
+
+            Team = {
+                Letra = {255, 190, 45},
+                Borda = {0, 0, 0},
+            },
+        },
+    },
+
     [33817647] = {
         Nome = "Os Hashiras",
         RankMinimo = 1,
