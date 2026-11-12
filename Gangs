@@ -6,7 +6,7 @@ local Gangs = {
         Itens = {
             Soco = 1,
             Chute = 1,
-            Kokusen = 2,
+            Kokusen = 1,
         },
 
         Cor = {
@@ -32,7 +32,9 @@ local Gangs = {
         RankMinimo = 1,
 
         Itens = {
-            Kokusen = 2,
+            Soco = 1,
+            Chute = 1,
+            Kokusen = 1,
         },
 
         Cor = {
