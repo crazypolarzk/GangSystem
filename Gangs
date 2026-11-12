@@ -51,8 +51,6 @@ local Gangs = {
                 Letra = {249, 247, 252},
                 Borda = {35, 35, 35},
             },
-        },
-    },
 
     [33817647] = {
         Nome = "Os Hashiras",
