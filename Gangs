@@ -27,7 +27,6 @@ local Gangs = {
         },
     },
 
-local Gangs = {
     [1083945842] = {
         Nome = "Berserk",
         RankMinimo = 1,
@@ -51,8 +50,9 @@ local Gangs = {
                 Letra = {249, 247, 252},
                 Borda = {35, 35, 35},
             },
+        },
+    },
 
-local Gangs = {
     [299465372] = {
         Nome = "Goats",
         RankMinimo = 1,
@@ -76,6 +76,8 @@ local Gangs = {
                 Letra = {249, 247, 252},
                 Borda = {35, 35, 35},
             },
+        },
+    },
 
 
     [33817647] = {
